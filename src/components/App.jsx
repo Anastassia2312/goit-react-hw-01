@@ -1,3 +1,4 @@
+import { Profile } from "./Profile/Profile";
 import userData from "../userData.json";
 import "./App.css";
 
