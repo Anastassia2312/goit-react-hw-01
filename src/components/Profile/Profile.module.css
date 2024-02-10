@@ -24,6 +24,9 @@
 }
 
 .statsListItem {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
   width: calc((100% - 0px) / 3);
 }
 
