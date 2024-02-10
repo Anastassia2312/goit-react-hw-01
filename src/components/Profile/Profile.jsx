@@ -1,6 +1,7 @@
+import css from "./Profile.module.css";
 export const Profile = ({ name, tag, location, image, stats }) => {
   return (
-    <div className={container}>
+    <div className={css.container}>
       <div>
         <img src={image} alt="User avatar" />
         <p>{name}</p>
