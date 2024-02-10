@@ -9,7 +9,7 @@ export const Profile = ({ name, tag, location, image, stats }) => {
         <p className={css.locationText}>{location}</p>
       </div>
 
-      <ul className={css.tagList}>
+      <ul className={css.statsList}>
         <li>
           <span>Followers</span>
           <span>{stats.followers}</span>

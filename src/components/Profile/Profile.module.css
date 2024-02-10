@@ -15,13 +15,20 @@
   font-weight: 600;
 }
 
-.tagList {
+.statsList {
+  padding-top: 20px;
+  padding-bottom: 20px;
   list-style: none;
+  display: flex;
   background-color: rgb(215, 211, 211);
 }
 
+.statsListItem {
+  width: calc((100% - 0px) / 3);
+}
+
 .mainInformation {
-  padding: 16px;
+  padding: 20px;
   background-color: rgb(241, 241, 241);
 }
 
