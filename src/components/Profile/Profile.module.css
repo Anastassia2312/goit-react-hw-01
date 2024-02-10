@@ -23,7 +23,7 @@
 
 .statsListItem {
   display: flex;
-  border: solid grey 3px;
+  border: solid grey 2px;
   flex-direction: column;
   gap: 4px;
   width: calc((100% - 0px) / 3);
