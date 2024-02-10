@@ -16,6 +16,7 @@
 }
 
 .statsList {
+  border-top: solid grey 3px;
   padding-top: 20px;
   padding-bottom: 20px;
   list-style: none;
@@ -24,7 +25,7 @@
 }
 
 .statsListItem {
-  border-top: solid grey 3px;
+  border-right: solid grey 3px;
   display: flex;
   flex-direction: column;
   gap: 4px;
