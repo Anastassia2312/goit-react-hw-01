@@ -16,6 +16,7 @@
 }
 
 .statsList {
+  height: 40px;
   list-style: none;
   display: flex;
   background-color: rgb(215, 211, 211);
