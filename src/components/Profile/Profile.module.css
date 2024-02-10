@@ -34,8 +34,14 @@
   background-color: rgb(79, 79, 79);
 }
 
-.text {
+.tagText {
   margin-top: 16px;
+  font-size: 28px;
+  color: grey;
+}
+
+.locationText {
+  margin-top: 8px;
   font-size: 28px;
   color: grey;
 }
