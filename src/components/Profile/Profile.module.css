@@ -25,6 +25,7 @@
 
 .statsListItem {
   display: flex;
+  height: 64px;
   border: solid grey 2px;
   flex-direction: column;
   gap: 4px;
