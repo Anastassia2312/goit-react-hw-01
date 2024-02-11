@@ -22,3 +22,7 @@
   height: 40px;
   background-color: rgb(209, 208, 208);
 }
+
+.tdTable {
+  border: solid black 2px;
+}
