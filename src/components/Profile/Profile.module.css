@@ -61,3 +61,12 @@
   font-size: 28px;
   color: grey;
 }
+
+.spanTitle {
+  font-size: 24px;
+}
+
+.spanInfo {
+  composes: spanTitle;
+  font-weight: 600;
+}
