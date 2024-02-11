@@ -32,7 +32,8 @@
   width: calc((100% - 0px) / 3);
 }
 .secondStatsListItem {
-  border: solid grey 3px;
+  border-left: solid grey 3px;
+  border-right: solid grey 3px;
 }
 
 .mainInformation {
