@@ -2,4 +2,5 @@
   padding: 8px;
   border: solid black 3px;
   border-radius: 12px;
+  width: ((100% - 48px) / 5);
 }
