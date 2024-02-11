@@ -1,4 +1,5 @@
 import css from "./Profile.module.css";
+import clsx from "clsx";
 export const Profile = ({ name, tag, location, image, stats }) => {
   return (
     <div className={css.container}>
@@ -14,7 +15,7 @@ export const Profile = ({ name, tag, location, image, stats }) => {
           <span>Followers</span>
           <span>{stats.followers}</span>
         </li>
-        <li className={css.statsListItem}>
+        <li className={clsx(css.statsListItem, css.secondStatsListItem)}>
           <span>Views</span>
           <span>{stats.views}</span>
         </li>

@@ -26,10 +26,12 @@
 .statsListItem {
   display: flex;
   justify-content: center;
-  border: solid grey 2px;
   flex-direction: column;
   gap: 4px;
   width: calc((100% - 0px) / 3);
+}
+.secondStatsListItem {
+  border: solid grey 2px;
 }
 
 .mainInformation {
