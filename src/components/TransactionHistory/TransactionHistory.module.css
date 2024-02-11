@@ -2,3 +2,10 @@
   width: 500px;
   border: solid black 2px;
 }
+
+.tHead {
+  background-color: rgb(40, 40, 40);
+  color: white;
+  font-size: 28px;
+  font-weight: 600;
+}
