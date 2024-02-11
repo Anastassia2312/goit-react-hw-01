@@ -5,6 +5,11 @@
   border-radius: 12px;
 }
 
+.image {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .onlineStyles {
   color: green;
 }
