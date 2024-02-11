@@ -1,6 +1,6 @@
 .list {
   align-items: center;
-
+  justify-content: center;
   list-style-type: none;
   display: flex;
   gap: 12px;
