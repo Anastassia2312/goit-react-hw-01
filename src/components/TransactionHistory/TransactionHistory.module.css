@@ -8,6 +8,7 @@
 
 .tHead {
   height: 40px;
+  width: calc(100% / 3);
   background-color: rgb(59, 59, 59);
   border: 1px solid black;
   color: white;
