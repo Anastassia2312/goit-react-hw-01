@@ -4,8 +4,9 @@
 }
 
 .tHead {
-  background-color: rgb(40, 40, 40);
+  background-color: rgb(59, 59, 59);
+  border: 1px solid black;
   color: white;
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 600;
 }
