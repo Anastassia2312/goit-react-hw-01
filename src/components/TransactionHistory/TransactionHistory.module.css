@@ -5,6 +5,7 @@
 }
 
 .tHead {
+  height: 40px;
   background-color: rgb(59, 59, 59);
   border: 1px solid black;
   color: white;
@@ -13,11 +14,11 @@
 }
 
 .trTable:nth-child(odd) {
-  height: 50px;
+  height: 40px;
   background-color: white;
 }
 
 .trTable:nth-child(even) {
-  height: 50px;
+  height: 40px;
   background-color: rgb(209, 208, 208);
 }
